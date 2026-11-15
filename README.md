@@ -36,9 +36,13 @@ Following training, mentorship and technical review activities supported further
 
 ## Training and Recognition
 
-- Completed GEEKS Tier 1 training, December 2020.
-- Completed the GEEKS Tier 2 Fellowship as a mentor, 2021–2022.
-- Completed DHIS2 Fundamentals through the University of Oslo DHIS2 Academy, September 2021.
+### Supporting Certificates
+
+The following professional certificates are available for review:
+
+- [GEEKS Tier 1 Training Certificate](certificates/)
+- [GEEKS Tier 2 Mentor Certificate](certificates/)
+- [DHIS2 Fundamentals Certificate](certificates/)
 
 ## Broader Program Context
 

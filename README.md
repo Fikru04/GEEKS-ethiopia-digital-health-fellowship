@@ -40,8 +40,8 @@ Following training, mentorship and technical review activities supported further
 
 The following professional certificates are available for review:
 
-- [GEEKS Tier 1 Training Certificate](certificates/)
-- [GEEKS Tier 2 Mentor Certificate](certificates/)
+- [GEEKS Tier 1 Training Certificate](certificates/GEEKS%20TierI%20Certeficate.pdf)
+- [GEEKS Tier 2 Mentor Certificate](certificates/Fikru%20D%20Geeks%20Certificate-.pdf)
 - [DHIS2 Fundamentals Certificate](certificates/)
 
 ## Broader Program Context
